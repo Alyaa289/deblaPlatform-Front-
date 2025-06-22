@@ -4,7 +4,6 @@ This is the frontend for the Digital Gold Platform, built with React, Tailwind C
 
 ## Features
 - Login and Register pages
-- Modern UI with white, brown, and gold color palette
 - Modular structure for scalability
 
 ## Getting Started
@@ -14,4 +13,3 @@ This is the frontend for the Digital Gold Platform, built with React, Tailwind C
 
 ---
 
-_Last updated: June 22, 2025_
